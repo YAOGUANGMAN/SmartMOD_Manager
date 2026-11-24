@@ -1,9 +1,0 @@
-E:\当前项目\Free MOD Manager\Free MOD Manager\bin\Debug\Free MOD Manager.exe.config
-E:\当前项目\Free MOD Manager\Free MOD Manager\bin\Debug\Free MOD Manager.exe
-E:\当前项目\Free MOD Manager\Free MOD Manager\bin\Debug\Free MOD Manager.pdb
-E:\当前项目\Free MOD Manager\Free MOD Manager\obj\Debug\Free MOD Manager.csprojResolveAssemblyReference.cache
-E:\当前项目\Free MOD Manager\Free MOD Manager\obj\Debug\Free_MOD_Manager.Main.resources
-E:\当前项目\Free MOD Manager\Free MOD Manager\obj\Debug\Free_MOD_Manager.Properties.Resources.resources
-E:\当前项目\Free MOD Manager\Free MOD Manager\obj\Debug\Free MOD Manager.csproj.GenerateResource.Cache
-E:\当前项目\Free MOD Manager\Free MOD Manager\obj\Debug\Free MOD Manager.exe
-E:\当前项目\Free MOD Manager\Free MOD Manager\obj\Debug\Free MOD Manager.pdb
