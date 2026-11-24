@@ -1,0 +1,52 @@
+E:\当前项目\Free MOD Manager\Free MOD Manager\bin\Debug\SmartMOD Manager.exe.config
+E:\当前项目\Free MOD Manager\Free MOD Manager\bin\Debug\SmartMOD Manager.exe
+E:\当前项目\Free MOD Manager\Free MOD Manager\bin\Debug\SmartMOD Manager.pdb
+E:\当前项目\Free MOD Manager\Free MOD Manager\obj\Debug\SmartMOD_Manager.Main.resources
+E:\当前项目\Free MOD Manager\Free MOD Manager\obj\Debug\SmartMOD_Manager.Properties.Resources.resources
+E:\当前项目\Free MOD Manager\Free MOD Manager\obj\Debug\SmartMOD Manager.csproj.GenerateResource.Cache
+E:\当前项目\Free MOD Manager\Free MOD Manager\obj\Debug\SmartMOD Manager.exe
+E:\当前项目\Free MOD Manager\Free MOD Manager\obj\Debug\SmartMOD Manager.pdb
+E:\当前项目\Free MOD Manager\Free MOD Manager\obj\Debug\SmartMOD Manager.csprojResolveAssemblyReference.cache
+E:\当前项目\SmartMOD Manager\Free MOD Manager\bin\Debug\SmartMOD Manager.exe.config
+E:\当前项目\SmartMOD Manager\Free MOD Manager\obj\Debug\SmartMOD Manager.exe
+E:\当前项目\SmartMOD Manager\Free MOD Manager\obj\Debug\SmartMOD Manager.pdb
+E:\当前项目\SmartMOD Manager\SmartMOD Manager\bin\Debug\SmartMOD Manager.exe.config
+E:\当前项目\SmartMOD Manager\SmartMOD Manager\obj\Debug\SmartMOD Manager.exe
+E:\当前项目\SmartMOD Manager\SmartMOD Manager\obj\Debug\SmartMOD Manager.pdb
+E:\当前项目\SmartMOD Manager\SmartMOD Manager\bin\Debug\SmartMOD Manager.exe
+E:\当前项目\SmartMOD Manager\SmartMOD Manager\bin\Debug\SmartMOD Manager.pdb
+E:\当前项目\SmartMOD Manager\SmartMOD Manager\obj\Debug\SmartMOD Manager.csprojResolveAssemblyReference.cache
+E:\当前项目\SmartMOD Manager\SmartMOD Manager\obj\Debug\SmartMOD_Manager.Main.resources
+E:\当前项目\SmartMOD Manager\SmartMOD Manager\obj\Debug\SmartMOD_Manager.Properties.Resources.resources
+E:\当前项目\SmartMOD Manager\SmartMOD Manager\obj\Debug\SmartMOD Manager.csproj.GenerateResource.Cache
+E:\当前项目\SmartMOD Manager\SmartMOD Manager\obj\Debug\SmartMOD_Manager.About.resources
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0\SmartMOD Manager\bin\Debug\SmartMOD Manager.exe.config
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0\SmartMOD Manager\obj\Debug\SmartMOD Manager.exe
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0\SmartMOD Manager\obj\Debug\SmartMOD Manager.pdb
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0\SmartMOD Manager\bin\Debug\SmartMOD Manager.exe
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0\SmartMOD Manager\bin\Debug\SmartMOD Manager.pdb
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0\SmartMOD Manager\obj\Debug\SmartMOD Manager.csprojResolveAssemblyReference.cache
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0\SmartMOD Manager\obj\Debug\SmartMOD_Manager.About.resources
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0\SmartMOD Manager\obj\Debug\SmartMOD_Manager.Main.resources
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0\SmartMOD Manager\obj\Debug\SmartMOD_Manager.Properties.Resources.resources
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0\SmartMOD Manager\obj\Debug\SmartMOD Manager.csproj.GenerateResource.Cache
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0_202611240845\SmartMOD Manager\bin\Debug\SmartMOD Manager.exe.config
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0_202611240845\SmartMOD Manager\obj\Debug\SmartMOD Manager.exe
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0_202611240845\SmartMOD Manager\obj\Debug\SmartMOD Manager.pdb
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0_202611240845\SmartMOD Manager\bin\Debug\SmartMOD Manager.exe
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0_202611240845\SmartMOD Manager\bin\Debug\SmartMOD Manager.pdb
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0_202611240845\SmartMOD Manager\obj\Debug\SmartMOD Manager.csprojResolveAssemblyReference.cache
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0_202611240845\SmartMOD Manager\obj\Debug\SmartMOD_Manager.About.resources
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0_202611240845\SmartMOD Manager\obj\Debug\SmartMOD_Manager.Main.resources
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0_202611240845\SmartMOD Manager\obj\Debug\SmartMOD_Manager.Properties.Resources.resources
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0_202611240845\SmartMOD Manager\obj\Debug\SmartMOD Manager.csproj.GenerateResource.Cache
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0_202611241447\SmartMOD Manager\bin\Debug\SmartMOD Manager.exe.config
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0_202611241447\SmartMOD Manager\obj\Debug\SmartMOD Manager.exe
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0_202611241447\SmartMOD Manager\obj\Debug\SmartMOD Manager.pdb
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0_202611241447\SmartMOD Manager\bin\Debug\SmartMOD Manager.exe
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0_202611241447\SmartMOD Manager\bin\Debug\SmartMOD Manager.pdb
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0_202611241447\SmartMOD Manager\obj\Debug\SmartMOD Manager.csprojResolveAssemblyReference.cache
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0_202611241447\SmartMOD Manager\obj\Debug\SmartMOD_Manager.About.resources
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0_202611241447\SmartMOD Manager\obj\Debug\SmartMOD_Manager.Main.resources
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0_202611241447\SmartMOD Manager\obj\Debug\SmartMOD_Manager.Properties.Resources.resources
+E:\当前项目\SmartMOD Manager\SmartMOD Manager v1.0.0_202611241447\SmartMOD Manager\obj\Debug\SmartMOD Manager.csproj.GenerateResource.Cache
