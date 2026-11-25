@@ -21,4 +21,4 @@ SmartMOD Manager是一款离线游戏MOD文件管理器，支持将MOD导入、�
 
 ### 游戏界面：
 
-![2026-11-25_094811](blob:https://www.markdownassistant.com/c63398e1-3422-4531-b783-131b699680fc)
+![2026-11-25_094811]([blob:https://www.markdownassistant.com/c63398e1-3422-4531-b783-131b699680fc](https://github.com/YaoGuangman/SmartMOD_Manager/blob/main/STYLE.png))
