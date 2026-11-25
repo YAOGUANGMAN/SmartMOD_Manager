@@ -20,4 +20,4 @@ SmartMOD Manager是一款离线游戏MOD文件管理器，支持将MOD导入、�
 3. 备份还原功能：在安装的同时备份游戏原文件，在卸载的同时还原游戏原文件，卸载的同时卸载受影响的MOD。
 
 ### 游戏界面：
-[这是图片](blob:https://www.markdownassistant.com/c63398e1-3422-4531-b783-131b699680fc](https://github.com/YaoGuangman/SmartMOD_Manager/blob/main/STYLE.png "Magic Gardens")
+![图片alt]([图片链接](https://github.com/YaoGuangman/SmartMOD_Manager/blob/main/STYLE.png) "图片title")。
