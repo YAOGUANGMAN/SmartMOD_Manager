@@ -20,4 +20,4 @@ SmartMOD Manager是一款离线游戏MOD文件管理器，支持将MOD导入、�
 3. 备份还原功能：在安装的同时备份游戏原文件，在卸载的同时还原游戏原文件，卸载的同时卸载受影响的MOD。
 
 ### 游戏界面：
-![图片alt](https://github.com/YaoGuangman/SmartMOD_Manager/blob/main/STYLE.png](https://github.com/YaoGuangman/SmartMOD_Manager/blob/main/STYLE.png?raw=true](https://img2024.cnblogs.com/blog/133956/202611/133956-20261125101255937-1236968678.png "图片title")。
+![图片alt](https://img2024.cnblogs.com/blog/133956/202611/133956-20261125101255937-1236968678.png "图片title")。
